@@ -1,0 +1,110 @@
+{
+  "name": "WraithSwap List",
+  "timestamp": "2021-01-05T20:47:02.923Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "ipfs://QmX4YqexRsESSEDSid94nc6GMrEkw7b78TpAZGz7z6PfMB",
+  "keywords": ["wraithswap", "default"],
+  "tokens": [
+    {
+      "name": "Wraith",
+      "address": "0x4CF098d3775Bd78a4508a13E126798Da5911b6cd",
+      "symbol": "WRA",
+      "decimals": 18,
+      "chainId": 250,
+      "logoURI": "ipfs://QmX4YqexRsESSEDSid94nc6GMrEkw7b78TpAZGz7z6PfMB"
+    },
+    {
+      "name": "Syfin",
+      "address": "0x1BCF4DC879979C68fA255f731FE8Dcf71970c9bC",
+      "symbol": "SYF",
+      "decimals": 18,
+      "chainId": 250,
+      "logoURI": "https://sy.finance/img/icon-blk.png"
+    },
+    {
+      "name": "Spookyswap",
+      "address": "0x841FAD6EAe12c286d1Fd18d1d525DFfA75C7EFFE",
+      "symbol": "BOO",
+      "decimals": 18,
+      "chainId": 250,
+      "logoURI": "https://assets.spookyswap.finance/tokens/BOO.png"
+    },
+    {
+      "name": "USD Coin",
+      "address": "0x04068DA6C83AFCFA0e13ba15A6696662335D5B75",
+      "symbol": "USDC",
+      "decimals": 6,
+      "chainId": 250,
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/usdc.jpg"
+    },
+    {
+      "name": "Magic Internet Money",
+      "address": "0x82f0B8B456c1A451378467398982d4834b6829c1",
+      "symbol": "MIM",
+      "decimals": 18,
+      "chainId": 250,
+      "logoURI": "https://abracadabra.money/img/Token_MIM.12c48248.svg"
+    },
+    {
+      "name": "Wrapped Fantom",
+      "address": "0x21be370D5312f44cB42ce377BC9b8a0cEF1A4C83",
+      "symbol": "WFTM",
+      "decimals": 18,
+      "chainId": 250,
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/ftm.jpg"
+    },
+    {
+      "name": "Chainlink",
+      "address": "0xb3654dc3d10ea7645f8319668e8f54d2574fbdc8",
+      "symbol": "LINK",
+      "decimals": 18,
+      "chainId": 250,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x514910771AF9Ca656af840dff83E8264EcF986CA/logo.png"
+    },
+    {
+      "name": "Elite",
+      "address": "0xf43Cc235E686d7BC513F53Fbffb61F760c3a1882",
+      "symbol": "ELITE",
+      "decimals": 18,
+      "chainId": 250,
+      "logoURI": "https://assets.spookyswap.finance/tokens/ELITE.png"
+    },
+    {
+      "name": "Tomb",
+      "address": "0x6c021Ae822BEa943b2E66552bDe1D2696a53fbB7",
+      "symbol": "TOMB",
+      "decimals": 18,
+      "chainId": 250,
+      "logoURI": "https://assets.spookyswap.finance/tokens/TOMB.png"
+    },
+    {
+      "name": "TShare",
+      "address": "0x4cdF39285D7Ca8eB3f090fDA0C069ba5F4145B37",
+      "symbol": "TSHARE",
+      "decimals": 18,
+      "chainId": 250,
+      "logoURI": "https://assets.spookyswap.finance/tokens/TSHARE.png"
+    },
+    {
+      "name": "Abracadabra",
+      "address": "0x468003B688943977e6130F4F68F23aad939a1040",
+      "symbol": "SPELL",
+      "decimals": 18,
+      "chainId": 250,
+      "logoURI": "https://assets.spookyswap.finance/tokens/SPELL.png"
+    },
+    {
+      "name": "Geist",
+      "address": "0xd8321AA83Fb0a4ECd6348D4577431310A6E0814d",
+      "symbol": "GEIST",
+      "decimals": 18,
+      "chainId": 250,
+      "logoURI": "https://assets.spookyswap.finance/tokens/GEIST.png"
+    }
+  ]
+}
